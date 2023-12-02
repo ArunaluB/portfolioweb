@@ -27,9 +27,11 @@ const Contact = () => {
           <h3 className='contact__title'>Don't be Shy!</h3>
 
           <p className='contact__description'>
-            Feel free to get in touch with me. I am always open to discussing
-            new projects, creating ideas, or opportunities to be part of your
-            visions.
+          Let's start a collaborative journey where my 
+          skills and achievements can make a
+          meaningful impact on your goals. I look forward to
+          connecting with you and exploring how we can
+          achieve success together
           </p>
 
           <div className="contact__info">
